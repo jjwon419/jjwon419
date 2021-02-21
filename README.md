@@ -3,4 +3,7 @@
 ## Hello!👋 Welcome to my Github!
 
 ### STAT
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluefirewolf534)](https://github.com/anuraghazra/github-readme-stats)
+[![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](#)
+
+### Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluefirewolf534&langs_count=8&theme=dark)](#)

@@ -3,7 +3,7 @@
 ## Hello!👋 Welcome to my Github!
 
 ### STAT
-[![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](#)
+[![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](https://github.com/bluefirewolf534)
 
 ### Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluefirewolf534&langs_count=8&theme=dark)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluefirewolf534&langs_count=8&theme=dark)](https://github.com/bluefirewolf534)

@@ -1,6 +1,4 @@
-<image src="https://github.com/bluefirewolf534/bluefirewolf534/blob/master/asset/logo.gif?raw=true">
-  
-## Hello!👋 Welcome to my Github!~
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RoMo_Official&fontSize=80&fontAlignY=40&desc=Hello!👋 Welcome to my Github!&descAlignY=55" />
 <a href="https://github.com/bluefirewolf534/bluefirewolf534/blob/master/README_KOR.md">한국어로 읽기</a>
 
 ### STAT

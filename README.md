@@ -7,4 +7,5 @@
 [![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](https://github.com/bluefirewolf534)
 
 ### Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluefirewolf534&langs_count=8&theme=dark)](https://github.com/bluefirewolf534)
+<img src="https://img.shields.io/badge/C-orange?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Php-blue?style=flat-square&logo=PHP&logoColor=white"/></a>

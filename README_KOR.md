@@ -4,10 +4,10 @@
 <img src="https://img.shields.io/badge/Read-English-green" />
 </a>
 
-### 상태
+## 상태
 [![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](https://github.com/bluefirewolf534)
 
-### 사용언어
+## 사용언어
 <img src="https://img.shields.io/badge/C-orange?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Php-blue?style=flat-square&logo=PHP&logoColor=white"/></a>
 </div>

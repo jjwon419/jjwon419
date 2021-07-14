@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RoMo_Official&fontSize=80&fontAlignY=40&desc=안녕하세요!👋 제 Github에 오신걸 환영합니다!&descAlignY=55" />
 </div>
-<a href="https://github.com/bluefirewolf534/bluefirewolf534/blob/master/README_KOR.md">
+<a href="https://github.com/bluefirewolf534/bluefirewolf534/blob/master/READM.md">
 <img src="https://img.shields.io/badge/Read-in English-green" />
 </a>
 

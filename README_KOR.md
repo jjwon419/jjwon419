@@ -1,11 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RoMo_Official&fontSize=80&fontAlignY=40&desc=안녕하세요!👋 제 Github에 오신걸 환영합니다!&descAlignY=55" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RoMo_Official&fontSize=80&fontAlignY=40&desc=안녕하세요!👋 제 Github에 오신걸 환영합니다!&descAlignY=55" /><br>
+표시 언어<br>
 <a href="https://github.com/bluefirewolf534/bluefirewolf534/blob/master/README.md">
 <img src="https://img.shields.io/badge/Read-in English-green" />
-</a>
+</a><br><br>
 
-<div align="center">
 
 # 상태
 [![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](https://github.com/bluefirewolf534)

@@ -7,7 +7,7 @@ show languages<br>
 
 
 # STAT
-[![STAT](https://github-readme-stats.vercel.app/api?username=bluefirewolf534&theme=dark)](https://github.com/jjwon419)
+[![STAT](https://github-readme-stats.vercel.app/api?username=jjwon419&theme=dark)](https://github.com/jjwon419)
 
 # LANGUAGES
 <img src="https://img.shields.io/badge/C-red?style=flat-square&logo=C&logoColor=white"/>
